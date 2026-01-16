@@ -1,5 +1,5 @@
 # blackbaud-blockchain
 
-Enterprise-grade ERC-20 and ERC-1155 token suite for Blackbaud: secure, gas-optimized, role-based access control, pauseable, fully tested with Hardhat and Python backend.
+Secure, role-based token suite for digital asset systems — designed for real-world use cases like creator payouts and fractional ownership.
 
 
